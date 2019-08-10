@@ -1,0 +1,21 @@
+{
+  "name": "ultimate-white",
+  "displayName": "Ultimate White",
+  "description": "A white VS Code color theme without any shades of gray - just pure and perfect #ffffff white",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultimate White",
+        "uiTheme": "vs",
+        "path": "./themes/Ultimate White-color-theme.json"
+      }
+    ]
+  }
+}
