@@ -2,7 +2,7 @@
   "name": "ultimate-white",
   "displayName": "Ultimate White",
   "description": "A white VS Code color theme without any shades of gray - just pure and perfect #ffffff white",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.37.0"
   },
