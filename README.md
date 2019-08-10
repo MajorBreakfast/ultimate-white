@@ -6,4 +6,4 @@ Dark Mode users beware! This is not the color theme for you! This is the color t
 
 The `material-icon-theme` is recommended as icon theme.
 
-![Ultimate White Visual Studio Code theme screenshot](screenshot.png)
+![Ultimate White Visual Studio Code theme screenshot](images/screenshot.png)
